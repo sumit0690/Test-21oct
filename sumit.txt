@@ -1,0 +1,20 @@
+Hello
+my name is sumit
+i am studying Devops 
+in NJ
+i am from VA
+i came here at NJ on 1st of may
+my goal coming to NJ is to find a job 
+i am now is training on Devops with Intelycore
+I will learn here many components like
+Linux 
+SSH
+GIT and Jenkins
+Puppet Chef Ansible 
+AWS 
+Docker Kubernetes
+Nagios Splunk 
+google cloud
+Azure
+ANT Maven Gradle 
+
